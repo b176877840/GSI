@@ -1,4 +1,0 @@
-{"sites" : [
-{"key":"精","name":"精1","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"番","name":"番","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"11","name":"精2","type":0,"api":"https://api.maozyapi.com/inc/api.php"}],
